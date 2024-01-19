@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.7.10
+FROM python:3.13.0a3
 # FROM pytorch/pytorch:1.9.0-cuda11.1-cudnn8-runtime
 
 # Set the working directory
